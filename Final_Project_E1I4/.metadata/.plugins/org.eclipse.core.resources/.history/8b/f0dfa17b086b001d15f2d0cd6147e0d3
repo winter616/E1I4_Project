@@ -1,0 +1,55 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class="container">
+		<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-5 my-5 border-top">
+		    <div class="col mb-3">
+		    	<a href="/" class="d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+					<img class="bi" width="100" height="100" src="${ contextPath }/resources/image/SingleRior.png">
+				</a>
+		    	<p class="text-muted">&copy; 2022 Company, Inc</p>
+		    </div>
+		
+		    <div class="col mb-3">
+				
+		    </div>
+		
+			<div class="col mb-3">
+		    	<ul class="nav flex-column" style="font-weight: bold; font-size: small;">
+		    		<li class="nav-item mb-2">상호명</li>
+		    		<li class="nav-item mb-2">대표자</li>
+		    		<li class="nav-item mb-2">개인정보보호책임자</li>
+		    		<li class="nav-item mb-2">사업자등록번호</li>
+		    		<li class="nav-item mb-2">대표번호</li>
+		    		<li class="nav-item mb-2">통신판매업신고번호</li>
+		    		<li class="nav-item mb-2">주소</li>
+		    		<li class="nav-item mb-2">문의</li>
+		    		<li class="nav-item mb-2">서비스 이용약관</li>
+		    		<li class="nav-item mb-2">개인정보 처리방침</li>
+		    	</ul>
+			</div>
+			
+			<div class="col mb-3">
+		    	<ul class="nav flex-column" style="font-size: small;">
+		    		<li class="nav-item mb-2">SingleRior</li>
+		    		<li class="nav-item mb-2">E1I4</li>
+		    		<li class="nav-item mb-2">E1I4</li>
+		    		<li class="nav-item mb-2">111-22-33333</li>
+		    		<li class="nav-item mb-2">1668-1234</li>
+		    		<li class="nav-item mb-2">제2022-서울종로-11111호</li>
+		    		<li class="nav-item mb-2">서울특별시 중구 남대문로 120, 그레이츠 청계 3층</li>
+		    		<li class="nav-item mb-2">singlerior@singlerior.com</li>
+		    	</ul>
+			</div>
+			
+			<div class="pc:w-[48.7rem] mobile:h-[19rem]"><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">상호명</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">(주)노써치</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">대표자</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">서영준</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">개인정보보호책임자</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">이한솔</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">사업자등록번호</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">740-81-01936</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">대표번호</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">1668-4654</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">통신판매업신고번호</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">제2022-서울강남-06203호</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">주소</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">서울특별시 강남구 언주로 85길 24, PNM타워 9층</p></div><div class="mb-[0.6rem] flex gap-3"><p class="text-body-8 font-bold flex-[0_0_12.4rem] text-gray-9">의견·문의</p><p class="text-body-10 font-normal flex-[2_1_0] text-gray-9">nosearch@nosearch.com</p></div><div class="hidden items-center justify-between pc:flex pc:w-[21.3rem]"><a href="/policy/terms"><div><p class="text-body-8 font-bold cursor-pointer text-gray-9">서비스 이용약관</p></div></a><div class="h-[1.5rem] w-[1px] bg-gray-7"></div><a href="/policy/private"><div><p class="text-body-8 font-bold cursor-pointer text-gray-9">개인정보 처리방침</p></div></a></div></div>
+		</footer>
+	</div>
+</body>
+</html>
