@@ -35,6 +35,15 @@
 	}
 	.item-star-review{margin-right: 2px; color: #424242; font-weight: 700;}
 	.item-review-count{margin-top: 5px; font-size: 13px; color: #9e9e9e; line-height: 16px; font-weight: 700;}
+	.ssingssing-itemPrice{
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		font-size: 17px;
+		line-height: 23px;
+		font-weight: 700;
+	}
+	.css-small-title{margin: 10px; font-weight: 700;}
 </style>
 </head>
 <body>
@@ -51,11 +60,11 @@
 				</div>
 				
 				<div class="carousel-item">
-					<img src="https://openimage.interpark.com/dia/images/47/24/210506024/7dbda1c4398e4a93832fa454d911c835.jpg" style="width: 100%; height: 450px;">
+					<img src="https://m.ramerit.co.kr/web/upload/NNEditor/20220812/16dcbcc9d1f3b3dfe0bf82969055c86a.jpg" style="width: 100%; height: 450px;">
 				</div>
 				
 				<div class="carousel-item">
-					<img src="https://image.zdnet.co.kr/2018/03/13/hjan_nkih0Gcx16HCmbe.jpg" style="width: 100%; height: 450px;">
+					<img src="https://openimage.interpark.com/milti/displayclassBanner/001812/01/20220715090841.jpg" style="width: 100%; height: 450px;">
 				</div>
 			</div>
 			
@@ -97,7 +106,7 @@
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -112,17 +121,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/166676292964747563.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -137,17 +143,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1597126332_101422_1.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -162,17 +165,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/165388926207842431.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -197,17 +197,14 @@
 			  				<div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 p-2 px-4">
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/160437064464898594.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -222,17 +219,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166322596412626914.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -247,17 +241,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/159410984312758507.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -272,17 +263,14 @@
 			  					
 			  					<div class="col">
 			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
+			  							<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/165336176691872944.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 225px;">
 				  						<div class="card-body">
 				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
 				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
 				  							<span class="today-special-price-itemPrice">
 				  								<span class="item-sale">N</span>
 				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
+				  								<span class="item-price">PRICE 원</span>
 				  							</span>
 				  							<div class="today-special-price-review">
 				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
@@ -294,118 +282,6 @@
 				  						</div>
 			  						</div>
 			  					</div>
-			  					
-			  					
-			  				</div>
-			  			</div>
-			  		</div>
-				</div>
-				
-				<div class="carousel-item">
-					<div class="album py-3">
-			  			<div class="container">
-			  				<div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 p-2 px-4">
-			  					<div class="col">
-			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
-				  						<div class="card-body">
-				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
-				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
-				  							<span class="today-special-price-itemPrice">
-				  								<span class="item-sale">N</span>
-				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
-				  							</span>
-				  							<div class="today-special-price-review">
-				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-				  									<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
-												</svg>
-				  								<span class="item-star-review">4.8</span>
-				  								<span class="item-review-count">리뷰 500</span>
-				  							</div>
-				  						</div>
-			  						</div>
-			  					</div>
-			  					
-			  					<div class="col">
-			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
-				  						<div class="card-body">
-				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
-				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
-				  							<span class="today-special-price-itemPrice">
-				  								<span class="item-sale">N</span>
-				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
-				  							</span>
-				  							<div class="today-special-price-review">
-				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-				  									<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
-												</svg>
-				  								<span class="item-star-review">4.8</span>
-				  								<span class="item-review-count">리뷰 500</span>
-				  							</div>
-				  						</div>
-			  						</div>
-			  					</div>
-			  					
-			  					<div class="col">
-			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
-				  						<div class="card-body">
-				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
-				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
-				  							<span class="today-special-price-itemPrice">
-				  								<span class="item-sale">N</span>
-				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
-				  							</span>
-				  							<div class="today-special-price-review">
-				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-				  									<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
-												</svg>
-				  								<span class="item-star-review">4.8</span>
-				  								<span class="item-review-count">리뷰 500</span>
-				  							</div>
-				  						</div>
-			  						</div>
-			  					</div>
-			  					
-			  					<div class="col">
-			  						<div class="card shadow-sm">
-			  							<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  								<rect width="100%" height="100%" fill="#55595c"/>
-			  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  							</svg>
-				  						<div class="card-body">
-				  							<span class="today-special-price-headerBrand">STORE_NAME</span>
-				  							<span class="today-special-price-headerName">PRODUCT_NAME</span>
-				  							<span class="today-special-price-itemPrice">
-				  								<span class="item-sale">N</span>
-				  								<span class="percentage">% &nbsp;</span>
-				  								<span class="item-price">PRICE</span>
-				  							</span>
-				  							<div class="today-special-price-review">
-				  								<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" style="margin-bottom: 3px;" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-				  									<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
-												</svg>
-				  								<span class="item-star-review">4.8</span>
-				  								<span class="item-review-count">리뷰 500</span>
-				  							</div>
-				  						</div>
-			  						</div>
-			  					</div>
-			  					
-			  					
 			  				</div>
 			  			</div>
 			  		</div>
@@ -439,128 +315,73 @@
 			<div class="carousel-inner">
 				<div class="carousel-item active" data-bs-interval="10000">
 					<div class="album">
-			  			<div class="container">
-			  				<div class="row px-4 mt-4">
+			  			<div class="container mt-4 mb-4">
+			  				<div class="row px-4">
 			  					<div class="col-md-6">
 			  						<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
 			  							<div class="col p-4 d-flex flex-column position-static">
 			  								<h3 class="mb-0">미니 가습기 판매해요</h3>
-			  								<div class="mb-1">20,000</div>
+			  								<div class="mt-2 mb-2">
+			  									<span class="ssingssing-itemPrice">20,000원</span>
+			  								</div>
+			  								<p class="card-text mb-auto">사용감 없습니다. 비염 있으신 분들 이거 유용하게 쓰실 듯요.</p>
+			  							</div>
+			  							<div class="col-auto d-none d-lg-block">
+			  								<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/157187790541792168.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 250px;">
+			  							</div>
+			  						</div>
+			  					</div>
+			  					
+			  					<div class="col-md-6">
+			  						<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
+			  							<div class="col p-4 d-flex flex-column position-static">
+			  								<h3 class="mb-0">1+1으로 산 멀티탭 나누실 분</h3>
+			  								<div class="mt-2 mb-2">
+			  									<span class="ssingssing-itemPrice">9,100원</span>
+			  								</div>
+			  								<p class="card-text mb-auto">18,200원에 2개가 왔는데 저는 하나면 되거든요.. 필요하신분 저랑 나눠가져요</p>
+			  							</div>
+			  							<div class="col-auto d-none d-lg-block">
+			  								<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/163514478998058807.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 250px;">
+			  							</div>
+			  						</div>
+			  					</div>
+			  				</div>
+			  			</div>
+			  		</div>
+				</div>
+				
+				<div class="carousel-item">
+					<div class="album">
+			  			<div class="container mt-4 mb-4">
+			  				<div class="row px-4">
+			  					<div class="col-md-6">
+			  						<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
+			  							<div class="col p-4 d-flex flex-column position-static">
+			  								<h3 class="mb-0">미니 가습기 판매해요</h3>
+			  								<div class="mt-2 mb-2">
+			  									<span class="ssingssing-itemPrice">20,000원</span>
+			  								</div>
 			  								<p class="card-text mb-auto">사용감 없습니다</p>
 			  							</div>
 			  							<div class="col-auto d-none d-lg-block">
-			  								<svg class="bd-placeholder-img" width="250" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  									<title>Placeholder</title>
-			  									<rect width="100%" height="100%" fill="#55595c"/>
-			  									<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  								</svg>
+			  								<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/157187790541792168.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 250px;">
 			  							</div>
 			  						</div>
 			  					</div>
 			  					
-			  					<div class="col-md-6">
-			  						<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-			  							<div class="col p-4 d-flex flex-column position-static">
-			  								<h3 class="mb-0">Post title</h3>
-			  								<div class="mb-1 text-muted">Nov 11</div>
-			  							</div>
-				  						<div class="col-auto d-none d-lg-block">
-				  							<svg class="bd-placeholder-img" width="250" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-				  								<title>Placeholder</title>
-				  								<rect width="100%" height="100%" fill="#55595c"/>
-				  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-				  							</svg>
-				  						</div>
-			  						</div>
-			  					</div>
-			  				</div>
-			  			</div>
-			  		</div>
-				</div>
-				
-				<div class="carousel-item">
-					<div class="album py-3">
-			  			<div class="container">
-			  				<div class="row px-4 mt-4">
 			  					<div class="col-md-6">
 			  						<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
 			  							<div class="col p-4 d-flex flex-column position-static">
-			  								<strong class="d-inline-block mb-2 text-primary">World</strong>
-			  								<h3 class="mb-0">Featured post</h3>
-			  								<div class="mb-1 text-muted">Nov 12</div>
-			  								<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-			  								<a href="#" class="stretched-link">Continue reading</a>
+			  								<h3 class="mb-0">1+1으로 산 멀티탭 나누실 분</h3>
+			  								<div class="mt-2 mb-2">
+			  									<span class="ssingssing-itemPrice">9,100원</span>
+			  								</div>
+			  								<p class="card-text mb-auto">18,200원에 2개가 왔는데 저는 하나면 되거든요.. 필요하신분 저랑 나눠가져요</p>
 			  							</div>
 			  							<div class="col-auto d-none d-lg-block">
-			  								<svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  									<title>Placeholder</title>
-			  									<rect width="100%" height="100%" fill="#55595c"/>
-			  									<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  								</svg>
+			  								<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/163514478998058807.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 100%; height: 250px;">
 			  							</div>
-			  						</div>
-			  					</div>
-			  					
-			  					<div class="col-md-6">
-			  						<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-			  							<div class="col p-4 d-flex flex-column position-static">
-			  								<strong class="d-inline-block mb-2 text-success">Design</strong>
-			  								<h3 class="mb-0">Post title</h3>
-			  								<div class="mb-1 text-muted">Nov 11</div>
-			  								<a href="#" class="stretched-link">Continue reading</a>
-			  							</div>
-				  						<div class="col-auto d-none d-lg-block">
-				  							<svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-				  								<title>Placeholder</title>
-				  								<rect width="100%" height="100%" fill="#55595c"/>
-				  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-				  							</svg>
-				  						</div>
-			  						</div>
-			  					</div>
-			  				</div>
-			  			</div>
-			  		</div>
-				</div>
-				
-				<div class="carousel-item">
-					<div class="album py-3">
-			  			<div class="container">
-			  				<div class="row px-4 mt-4">
-			  					<div class="col-md-6">
-			  						<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
-			  							<div class="col p-4 d-flex flex-column position-static">
-			  								<strong class="d-inline-block mb-2 text-primary">World</strong>
-			  								<h3 class="mb-0">Featured post</h3>
-			  								<div class="mb-1 text-muted">Nov 12</div>
-			  								<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-			  								<a href="#" class="stretched-link">Continue reading</a>
-			  							</div>
-			  							<div class="col-auto d-none d-lg-block">
-			  								<svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-			  									<title>Placeholder</title>
-			  									<rect width="100%" height="100%" fill="#55595c"/>
-			  									<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  								</svg>
-			  							</div>
-			  						</div>
-			  					</div>
-			  					
-			  					<div class="col-md-6">
-			  						<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-			  							<div class="col p-4 d-flex flex-column position-static">
-			  								<strong class="d-inline-block mb-2 text-success">Design</strong>
-			  								<h3 class="mb-0">Post title</h3>
-			  								<div class="mb-1 text-muted">Nov 11</div>
-			  								<a href="#" class="stretched-link">Continue reading</a>
-			  							</div>
-				  						<div class="col-auto d-none d-lg-block">
-				  							<svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-				  								<title>Placeholder</title>
-				  								<rect width="100%" height="100%" fill="#55595c"/>
-				  								<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-				  							</svg>
-				  						</div>
 			  						</div>
 			  					</div>
 			  				</div>
@@ -595,41 +416,30 @@
   		<div class="container">
   			<div class="row px-4 mt-4">
 			  	<div class="col-md-6">
-			  		<span style="margin: 10px;">- HOT 인기글</span>
-			  		<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative">
+			  		<span class="css-small-title">- HOT 인기글</span>
+			  		<div class="row g-0 border rounded overflow-hidden flex-md-row shadow-sm h-md-250 position-relative mt-2 mb-4">
 			  			<div class="col-auto d-none d-lg-block">
-			  				<svg class="bd-placeholder-img" width="250" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-				  				<title>Placeholder</title>
-				  				<rect width="100%" height="100%" fill="#55595c"/>
-				  				<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-			  				</svg>
+			  				<img src="https://recipe1.ezmember.co.kr/cache/recipe/2019/04/01/f8b3042c80a214dd7cc60fa2027cdc9d1.jpg" style="width: 250px; height: 250px;">
 			  			</div>
 			  			<div class="col p-4 d-flex flex-column position-static">
-			  				<strong class="d-inline-block mb-2 text-primary">World</strong>
-			  				<h3 class="mb-0">Featured post</h3>
-			  				<div class="mb-1 text-muted">Nov 12</div>
-			  				<p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-			  				<a href="#" class="stretched-link">Continue reading</a>
+			  				<h4 class="mb-0">오일파스타 요리법!</h4>
+			  				<div class="mb-1 text-muted">Nov 11</div>
+			  				<p class="card-text mb-auto">혼자 만들어 드실 때 적당한 양조절 팁도 있어요 :)</p>
 			  			</div>
 			  		</div>
 			  	</div>
 			  	
 			  	
 			  	<div class="col-md-6">
-			  		<span style="margin: 10px;">- HOT 판매자 인기글</span>
-			  		<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+			  		<span class="css-small-title">- HOT 판매자 인기글</span>
+			  		<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative mt-2 mb-4">
 			  			<div class="col-auto d-none d-lg-block">
-				  			<svg class="bd-placeholder-img" width="250" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-				  				<title>Placeholder</title>
-				  				<rect width="100%" height="100%" fill="#55595c"/>
-				  				<text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-				  			</svg>
+			  				<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/165580851630218889.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 250px; height: 250px;">
 				  		</div>
 			  			<div class="col p-4 d-flex flex-column position-static">
-			  				<strong class="d-inline-block mb-2 text-success">Design</strong>
-			  				<h3 class="mb-0">Post title</h3>
+			  				<h4 class="mb-0">직원이 직접 사용 후 작성한 휴도 매트리스 솔직 후기!!! (실제로 직원 집에 있음 ㅇㅇ)</h4>
 			  				<div class="mb-1 text-muted">Nov 11</div>
-			  				<a href="#" class="stretched-link">Continue reading</a>
+			  				<p class="card-text mb-auto">회사의 압박을 받고 있다면 당근을 흔들어주세요... 하지만 절대 아님!!</p>
 			  			</div>
 			  		</div>
 			  	</div>
