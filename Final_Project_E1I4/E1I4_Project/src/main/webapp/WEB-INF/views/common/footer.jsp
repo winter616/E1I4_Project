@@ -27,7 +27,7 @@
 		    		<li class="nav-item mb-2">주소</li>
 		    		<li class="nav-item mb-2">문의</li>
 		    		<li class="nav-item mb-2">서비스 이용약관</li>
-		    		<li class="nav-item mb-2">개인정보 처리방침</li>
+		    		<li class="nav-item mb-2">개인정보 처리방침2222222</li>
 		    	</ul>
 			</div>
 			
