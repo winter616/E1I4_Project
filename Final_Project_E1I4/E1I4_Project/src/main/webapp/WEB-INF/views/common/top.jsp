@@ -12,7 +12,7 @@
 	<nav class="py-2 bg-light border-bottom">
 		<div class="container d-flex flex-wrap">
 			<a href="${ contextPath }/home.do" class="mx-auto text-dark text-decoration-none">
-				<img class="bi" style="margin-left: 125px;" width="400" height="150" src="${ contextPath }/resources/image/SingleRior_logo.png">
+				<img class="bi" style="margin-left: 125px;" width="320" height="120" src="${ contextPath }/resources/image/SingleRior_logo.png">
 			</a>
 			<ul class="nav d-flex align-items-center">
 				<li class="nav-item"><a href="#" class="nav-link link-dark px-2">Login</a></li>
@@ -33,7 +33,7 @@
 					</button>
 	        	</li>
 	        	<li class="nav-item"><a href="#" class="nav-link link-dark px-3">스토어</a></li>
-	        	<li class="nav-item"><a href="${ contextPath }/singlebungle.bo" class="nav-link link-dark px-3">싱글벙글</a></li>
+	        	<li class="nav-item"><a href="${ contextPath }/commuList.bo" class="nav-link link-dark px-3">싱글벙글</a></li>
 	        	<li class="nav-item"><a href="#" class="nav-link link-dark px-3">씽씽마켓</a></li>
 	        	<li class="nav-item"><a href="#" class="nav-link link-dark px-3">공지사항</a></li>
 	        </ul>
