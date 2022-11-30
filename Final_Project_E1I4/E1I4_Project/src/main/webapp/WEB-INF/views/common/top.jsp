@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,11 +9,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </head>
 <body>
-	<c:set value="${ pageContext.servletContext.contextPath }" var="contextPath" scope="application"/>
 	<nav class="py-2 bg-light border-bottom">
 		<div class="container d-flex flex-wrap">
 			<a href="${ contextPath }/home.do" class="mx-auto text-dark text-decoration-none">
-				<img class="bi" style="margin-left: 125px;" width="170" height="170" src="${ contextPath }/resources/image/SingleRior.png">
+				<img class="bi" style="margin-left: 125px;" width="400" height="150" src="${ contextPath }/resources/image/SingleRior_logo.png">
 			</a>
 			<ul class="nav d-flex align-items-center">
 				<li class="nav-item"><a href="#" class="nav-link link-dark px-2">Login</a></li>
