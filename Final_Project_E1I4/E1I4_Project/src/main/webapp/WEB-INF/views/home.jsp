@@ -47,8 +47,10 @@
 </style>
 </head>
 <body>
-	<header>
-		<jsp:include page="common/top.jsp"/>
+	<header class="sticky-top">
+		<div>
+			<jsp:include page="common/top.jsp"/>
+		</div>
 	</header>
 	
 	<main>
