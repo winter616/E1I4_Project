@@ -2,15 +2,15 @@ package com.E1I4.project.storeBoard.model.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.mybatis.spring.SqlSessionTemplate;
 
 
-import com.E1I4.project.notiBoard.model.service.SqlSessionTemplate;
 import com.E1I4.project.storeBoard.model.dao.StoreBoardDAO;
 
 @Service("sService")
-public class StoreBoardServiceImpl {
+public class StoreBoardServiceImpl implements StoreBoardService{
 	@Autowired
-	private StoreBoardDAO nDAO;
+	private StoreBoardDAO sDAO;
 	
 	@Autowired
 	private SqlSessionTemplate sqlSession;

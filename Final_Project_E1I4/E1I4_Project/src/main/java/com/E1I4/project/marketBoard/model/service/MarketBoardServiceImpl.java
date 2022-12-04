@@ -1,5 +1,6 @@
 package com.E1I4.project.marketBoard.model.service;
 
+import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -11,7 +12,7 @@ import com.E1I4.project.marketBoard.model.dao.MarketBoardDAO;
 public class MarketBoardServiceImpl implements MarketBoardService{
 	
 	@Autowired
-	private MarketBoardDAO mDAO;
+	private MarketBoardDAO mkDAO;
 	
 	@Autowired
 	private SqlSessionTemplate sqlSession;

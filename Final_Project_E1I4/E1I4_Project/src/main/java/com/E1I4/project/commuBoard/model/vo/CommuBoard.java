@@ -1,4 +1,4 @@
-package com.E1I4.project.marketBoard.model.vo;
+package com.E1I4.project.commuBoard.model.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -11,6 +11,6 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class MarketBoard {
+public class CommuBoard {
 	private int boardId;
 }
