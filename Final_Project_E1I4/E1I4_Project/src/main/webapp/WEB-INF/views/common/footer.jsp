@@ -9,9 +9,9 @@
 <body>
 	<div class="container">
 		<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-3 py-5 my-5 border-top">
-		    <div class="col mb-3" style="width: 500px;">
-		    	<a href="/" class="d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
-					<img class="bi" width="100" height="100" src="${ contextPath }/resources/image/SingleRior.png">
+		    <div class="col mb-3" style="width: 600px;">
+		    	<a href="${ contextPath }/home.do" class="d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+					<img class="bi" width="320" height="120" src="${ contextPath }/resources/image/SingleRior_logo.png">
 				</a>
 		    	<p class="text-muted d-flex align-items-center justify-content-center">&copy; 2022 Company, Inc</p>
 		    </div>
@@ -27,7 +27,7 @@
 		    		<li class="nav-item mb-2">주소</li>
 		    		<li class="nav-item mb-2">문의</li>
 		    		<li class="nav-item mb-2">서비스 이용약관</li>
-		    		<li class="nav-item mb-2">개인정보 처리방침2222222</li>
+		    		<li class="nav-item mb-2">개인정보 처리방침</li>
 		    	</ul>
 			</div>
 			
