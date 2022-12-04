@@ -1,9 +1,19 @@
 package com.E1I4.project.commuBoard.model.service;
 
-public class NotiBoardServiceImpl {
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
-	public NotiBoardServiceImpl() {
-		// TODO Auto-generated constructor stub
-	}
+
+import com.E1I4.project.notiBoard.model.dao.NotiBoardDAO;
+
+@Service("mService")
+public class NotiBoardServiceImpl implements NotiBoardService{
+
+	@Autowired
+	private NotiBoardDAO mDAO;
+	
+	@Autowired
+	private SqlSessionTemplate sqlSession;
+
 
 }

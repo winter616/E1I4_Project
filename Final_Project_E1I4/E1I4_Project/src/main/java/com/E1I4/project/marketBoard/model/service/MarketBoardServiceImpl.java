@@ -1,5 +1,18 @@
 package com.E1I4.project.marketBoard.model.service;
 
-public class MarketBoardServiceImpl {
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+import com.E1I4.project.marketBoard.model.dao.MarketBoardDAO;
+
+
+
+@Service("mkService")
+public class MarketBoardServiceImpl implements MarketBoardService{
+	
+	@Autowired
+	private MarketBoardDAO mDAO;
+	
+	@Autowired
+	private SqlSessionTemplate sqlSession;
 }
