@@ -54,7 +54,7 @@
 	</header>
 	
 	<main>
-	<!-- 배너 -->
+		<!-- 배너 -->
 		<div id="myCarousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active">
