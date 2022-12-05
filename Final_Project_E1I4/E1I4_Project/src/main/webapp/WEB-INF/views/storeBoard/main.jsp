@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	test merge
+	테스트용
 </body>
 </html>
