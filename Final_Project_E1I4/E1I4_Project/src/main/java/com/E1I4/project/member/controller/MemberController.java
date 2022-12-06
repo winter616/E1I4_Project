@@ -32,5 +32,9 @@ public class MemberController {
 	public String findPwdView() {
 		return "findPwdView";
 	}
+	@RequestMapping("myPage.me")
+	public String myPage() {
+		return "myPage";
+	}
 	
 }
