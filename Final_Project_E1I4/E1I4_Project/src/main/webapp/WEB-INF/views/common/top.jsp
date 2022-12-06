@@ -33,7 +33,7 @@
 					</button>
 	        	</li>
 	        	<li class="nav-item"><a href="#" class="nav-link link-dark px-3">스토어</a></li>
-	        	<li class="nav-item"><a href="${contextPath}/commuList.co" class="nav-link link-dark px-3">싱글벙글</a></li>
+	        	<li class="nav-item"><a href="${contextPath}/commuMainList.co" class="nav-link link-dark px-3">싱글벙글</a></li>
 	        	<li class="nav-item"><a href="${contextPath}/marketBoardList.ma" class="nav-link link-dark px-3">씽씽마켓</a></li>
 	        	<li class="nav-item"><a href="#" class="nav-link link-dark px-3">공지사항</a></li>
 	        </ul>

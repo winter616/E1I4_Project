@@ -58,7 +58,7 @@
 		<div id="myCarousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="https://i.pinimg.com/originals/26/63/5b/26635bf988317b546ce1ef99f79d4f91.jpg" style="width: 100%; height: 450px;">
+					<a href="#"><img src="https://i.pinimg.com/originals/26/63/5b/26635bf988317b546ce1ef99f79d4f91.jpg" style="width: 100%; height: 450px;"></a>
 				</div>
 				
 				<div class="carousel-item">
@@ -433,15 +433,15 @@
 			  	
 			  	
 			  	<div class="col-md-6">
-			  		<span class="css-small-title">- HOT 판매자 인기글</span>
+			  		<span class="css-small-title"></span>
 			  		<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative mt-2 mb-4">
 			  			<div class="col-auto d-none d-lg-block">
-			  				<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/165580851630218889.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 250px; height: 250px;">
+			  				<img src="https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166536749705064483.jpg?gif=1&w=850&h=850&c=c&webp=1" style="width: 250px; height: 250px;">
 				  		</div>
 			  			<div class="col p-4 d-flex flex-column position-static">
-			  				<h4 class="mb-0">직원이 직접 사용 후 작성한 휴도 매트리스 솔직 후기!!! (실제로 직원 집에 있음 ㅇㅇ)</h4>
+			  				<h4 class="mb-0">여러분 과탄산소다가 여기저기 쓸 곳 많은 거 알고계시나요...?</h4>
 			  				<div class="mb-1 text-muted">Nov 11</div>
-			  				<p class="card-text mb-auto">회사의 압박을 받고 있다면 당근을 흔들어주세요... 하지만 절대 아님!!</p>
+			  				<p class="card-text mb-auto">제가 유용하게 사용한 방법들 알려드립니다!!</p>
 			  			</div>
 			  		</div>
 			  	</div>
