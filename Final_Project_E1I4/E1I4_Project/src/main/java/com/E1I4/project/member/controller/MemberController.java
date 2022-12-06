@@ -20,4 +20,17 @@ public class MemberController {
 	public String loginView() {
 		return "login";
 	}
+	@RequestMapping("enrollView.me")
+	public String enrollView(){
+		return "enrollView";
+	}
+	@RequestMapping("findIdView.me")
+	public String findIdView() {
+		return "findIdView";
+	}
+	@RequestMapping("findPwdView.me")
+	public String findPwdView() {
+		return "findPwdView";
+	}
+	
 }
