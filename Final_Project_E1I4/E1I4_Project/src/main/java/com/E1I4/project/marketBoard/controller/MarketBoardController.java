@@ -17,4 +17,8 @@ public class MarketBoardController {
 		return "marketBoardList";
 	}
 	
+	@RequestMapping("marketBoardWrite.ma")
+	public String marketBoardWrite() {
+		return "marketBoardwriter";
+	}
 }
