@@ -15,7 +15,7 @@
 				<img class="bi" style="margin-left: 125px;" width="320" height="120" src="${ contextPath }/resources/image/SingleRior_logo.png">
 			</a>
 			<ul class="nav d-flex align-items-center">
-				<li class="nav-item"><a href="#" class="nav-link link-dark px-2">Login</a></li>
+				<li class="nav-item"><a href="${contextPath }/loginView.me" class="nav-link link-dark px-2">Login</a></li>
 				<li class="nav-item"><a href="#" class="nav-link link-dark px-2">Sign up</a></li>
 			</ul>
 		</div>
