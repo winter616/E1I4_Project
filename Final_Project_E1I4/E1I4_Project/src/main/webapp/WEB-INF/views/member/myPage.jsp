@@ -68,7 +68,7 @@
 					<br>
 					<i class="bi bi-cart-check-fill"></i>
 					</td>
-					<td>고객센터
+					<td onClick="location.href='${contextPath}/serviceCenter.me'">고객센터
 					<br>
 					<i class="bi bi-telephone-fill"></i>
 					</td>

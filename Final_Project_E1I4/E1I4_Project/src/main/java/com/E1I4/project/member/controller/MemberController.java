@@ -44,4 +44,9 @@ public class MemberController {
 	public String myCart() {
 		return "myCart";
 	}
+	@RequestMapping("serviceCenter.me")
+	public String serviceCenter() {
+		return "serviceCenter";
+	}
+	
 }
