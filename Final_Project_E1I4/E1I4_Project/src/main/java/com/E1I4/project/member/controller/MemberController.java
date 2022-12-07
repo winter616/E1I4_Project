@@ -36,5 +36,12 @@ public class MemberController {
 	public String myPage() {
 		return "myPage";
 	}
-	
+	@RequestMapping("editMyInfo.me")
+	public String editMyInfo() {
+		return "editMyInfo";
+	}
+	@RequestMapping("myCart.me")
+	public String myCart() {
+		return "myCart";
+	}
 }
