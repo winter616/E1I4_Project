@@ -91,7 +91,7 @@
 		<div id="myPageContent">
 			<ul>
 				<li onClick="location.href='${contextPath}/orderList.me'"><span>주문/배송조회</span></li>
-				<li><span>취소/환불내역</span></li>
+				<li onClick="location.href='${contextPath}/orderCancelList.me'"><span>취소/환불내역</span></li>
 				<li><span>나의 구매후기</span></li>
 				<li><span>나의 문의</span></li>
 				<li><span>나의 댓글</span></li>

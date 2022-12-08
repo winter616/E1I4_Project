@@ -57,4 +57,8 @@ public class MemberController {
 	public String orderProductDetail() {
 		return "orderProductDetail";
 	}
+	@RequestMapping("orderCancelList.me")
+	public String orderCancelList() {
+		return "orderCancelList";
+	}
 }
