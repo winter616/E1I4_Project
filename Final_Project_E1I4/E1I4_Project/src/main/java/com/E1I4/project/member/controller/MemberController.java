@@ -61,4 +61,8 @@ public class MemberController {
 	public String orderCancelList() {
 		return "orderCancelList";
 	}
+	@RequestMapping("myReviewList.me")
+	public String myReviewList() {
+		return "myReviewList";
+	}
 }
