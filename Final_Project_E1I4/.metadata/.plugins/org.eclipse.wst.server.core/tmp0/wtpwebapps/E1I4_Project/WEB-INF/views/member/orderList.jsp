@@ -121,7 +121,7 @@
 					<td colspan="2">가격</td>
 				</tr>
 			</table>
-			<button type="button" class="btn btn-light orderCancel">리뷰작성</button>
+			<button type="button" class="btn btn-light orderCancel" data-bs-toggle="modal" data-bs-target="#orderRatingModal">리뷰작성</button>
 			<button type="button" class="btn btn-light orderCancel" data-bs-toggle="modal" data-bs-target="#orderCommitModal">구매확정</button>
 		</div>
 	</section>
@@ -181,7 +181,35 @@
 			</div>
 		</div>
 	</div>
-
+	
+	
+	<!-- 리뷰 작성 모달창 -->
+	<div class="modal fade" id="orderRatingModal" tabindex="-1"
+				aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered">
+					<div class="modal-content">
+						<form name="" id="" action="" method="post">
+							<div class="modal-header">
+								<h3 style="color:#008cd4">여러분의 리뷰를 작성해주세요</h3>
+								<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="modal-body">
+								<div class="mb-3">
+  									<label for="formFile" class="form-label">제품의 사진을 올려주세요.</label>
+  									<input class="form-control" type="file" id="formFile">
+								</div>
+								<div>
+									<textarea class="form-control" placeholder="여러분의 리뷰를 작성해주세요." id="boardContent" name="boardContent" style="height: 300px; resize:none;"></textarea>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-light" data-bs-dismiss="modal">창 닫기</button>
+								<button type="submit" class="btn btn-outline-light" style="background:#008cd4; color:white" id="reviewSubmit">리뷰 작성하기</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
 	<script>
 		const orderProductDetail = document.getElementsByClassName("orderProductDetail");
 		console.log(orderProductDetail);
