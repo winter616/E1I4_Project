@@ -49,4 +49,12 @@ public class MemberController {
 		return "serviceCenter";
 	}
 	
+	@RequestMapping("orderList.me")
+	public String searchOrder() {
+		return "orderList";
+	}
+	@RequestMapping("orderProductDetail.me")
+	public String orderProductDetail() {
+		return "orderProductDetail";
+	}
 }
