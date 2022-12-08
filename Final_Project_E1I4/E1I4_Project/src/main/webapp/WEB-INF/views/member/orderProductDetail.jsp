@@ -66,7 +66,7 @@
 		</div><br><br>
 		<div class="orderInfo address">
 			<h3>배송지 정보</h3>
-			<p><button type="button" class="btn btn-light" style="background:#008cd4; color:white;">배송지변경</button></p>
+			<p><button type="button" class="btn btn-light" style="background:#008cd4; color:white;" data-bs-toggle="modal" data-bs-target="#orderAddressModal">배송지변경</button></p>
 			<hr>
 			<h5>받는 사람</h5>
 			<p>김로즈</p>
@@ -76,6 +76,9 @@
 			<br>
 			<h5>주소</h5>
 			<p>서울특별시 강남구 역삼동</p>
+			<br>
+			<h5>배송 메모</h5>
+			<p>부재시 현관앞에 놓아주세요</p>
 		</div>
 		<br><br>
 		<div class="orderInfo pay">
@@ -140,6 +143,39 @@
 	  </div>
 	</div>
 	
+	<!-- 배송지 변경 모달창 -->
+	<div class="modal" tabindex="-1" id="orderAddressModal">
+		<div class="modal-dialog modal-dialog-centered">
+	    	<div class="modal-content">
+	     		 <div class="modal-header">
+	       		 <h5 class="modal-title">배송지 변경</h5>
+	       		 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+	    	  </div>
+	    	  <div class="modal-body">
+	      		  <div class="mb-3">
+						<label for="exampleFormControlInput1" class="form-label">받는 사람</label>
+ 				 		<input type="text" class="form-control" id="exampleFormControlInput1">
+				  </div>
+	      		   <div class="mb-3">
+						<label for="exampleFormControlInput1" class="form-label">연락처</label>
+ 				 		<input type="text" class="form-control" id="exampleFormControlInput1">
+				  </div>
+	      		  <div class="mb-3">
+						<label for="exampleFormControlInput1" class="form-label">주소</label>
+ 				 		<input type="text" class="form-control" id="exampleFormControlInput1">
+				  </div>
+	      		  <div class="mb-3">
+						<label for="exampleFormControlInput1" class="form-label">배송메모</label>
+ 				 		<input type="text" class="form-control" id="exampleFormControlInput1">
+				  </div>
+	     	 </div>
+			 <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">창닫기</button>
+				<button type="button" class="btn btn-light" style="background:#008cd4; color:white">배송지변경</button>
+	     	 </div>
+	    </div>
+	  </div>
+	</div>
 	
 </body>
 </html>
