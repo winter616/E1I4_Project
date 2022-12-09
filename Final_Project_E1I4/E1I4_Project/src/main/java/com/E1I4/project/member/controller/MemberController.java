@@ -61,8 +61,28 @@ public class MemberController {
 	public String orderCancelList() {
 		return "orderCancelList";
 	}
-	@RequestMapping("myReviewList.me")
+	@RequestMapping("myReviewDoneList.me")
 	public String myReviewList() {
-		return "myReviewList";
+		return "myReviewDoneList";
+	}
+	@RequestMapping("myReviewNDoneList.me")
+	public String myReviewNDoneList() {
+		return "myReviewNDoneList";
+	}
+	@RequestMapping("myAskList.me")
+	public String myAskList() {
+		return "myAskList";
+	}
+	@RequestMapping("myAskDoneList.me")
+	public String myAskDoneList() {
+		return "myAskDoneList";
+	}
+	@RequestMapping("myContentList.me")
+	public String myContentList() {
+		return "myContentList";
+	}
+	@RequestMapping("myReplyList.me")
+	public String myReplyList() {
+		return "myReplyList";
 	}
 }

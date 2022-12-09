@@ -121,7 +121,7 @@
 					<td colspan="2">가격</td>
 				</tr>
 			</table>
-			<button type="button" class="btn btn-light orderCancel" data-bs-toggle="modal" data-bs-target="#orderRatingModal">리뷰작성</button>
+			<button type="button" class="btn btn-light orderCancel" data-bs-toggle="modal" data-bs-target="#orderReviewModal">리뷰작성</button>
 			<button type="button" class="btn btn-light orderCancel" data-bs-toggle="modal" data-bs-target="#orderCommitModal">구매확정</button>
 		</div>
 	</section>
@@ -184,7 +184,7 @@
 	
 	
 	<!-- 리뷰 작성 모달창 -->
-	<div class="modal fade" id="orderRatingModal" tabindex="-1"
+	<div class="modal fade" id="orderReviewModal" tabindex="-1"
 				aria-labelledby="exampleModalLabel" aria-hidden="true">
 				<div class="modal-dialog modal-dialog-centered">
 					<div class="modal-content">

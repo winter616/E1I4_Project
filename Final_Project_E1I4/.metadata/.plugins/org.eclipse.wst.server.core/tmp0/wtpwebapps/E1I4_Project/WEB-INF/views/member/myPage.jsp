@@ -77,7 +77,7 @@
 					<br>
 					<i class="bi bi-heart-fill"></i>
 					</td>
-					<td>나의활동
+					<td onClick="location.href='${contextPath}/myContentList.me'">나의활동
 					<br>
 					<i class="bi bi-person-hearts"></i>
 					</td>
@@ -91,10 +91,9 @@
 		<div id="myPageContent">
 			<ul>
 				<li onClick="location.href='${contextPath}/orderList.me'"><span>주문/배송조회</span></li>
-				<li><span>취소/환불내역</span></li>
-				<li><span>나의 구매후기</span></li>
-				<li><span>나의 문의</span></li>
-				<li><span>나의 댓글</span></li>
+				<li onClick="location.href='${contextPath}/orderCancelList.me'"><span>취소/환불내역</span></li>
+				<li onClick="location.href='${contextPath}/myReviewDoneList.me'"><span>나의 구매후기</span></li>
+				<li onClick="location.href='${contextPath}/myAskList.me'"><span>나의 문의</span></li>
 			</ul>
 		</div>
 		<br><br><br>
